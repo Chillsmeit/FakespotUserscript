@@ -9,6 +9,17 @@
 // @match    https://*.amazon.jp/*
 // @match    https://*.amazon.nl/*
 // @match    https://*.amazon.se/*
+// @match    https://*.amazon.pl/*
+// @match    https://*.amazon.ca/*
+// @match    https://*.amazon.se/*
+// @match    https://*.amazon.in/*
+// @match    https://*.amazon.cn/*
+// @match    https://*.amazon.sg/*
+// @match    https://*.amazon.sa/*
+// @match    https://*.amazon.ae/*
+// @match    https://*.amazon.com.tr/*
+// @match    https://*.amazon.com.br/*
+// @match    https://*.amazon.com.mx/*
 // @match    https://*.amazon.co.uk/*
 // ==/UserScript==
 
