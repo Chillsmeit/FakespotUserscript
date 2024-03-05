@@ -10,6 +10,11 @@
 // @match    https://*.amazon.nl/*
 // @match    https://*.amazon.se/*
 // @match    https://*.amazon.co.uk/*
+// @homepage     https://github.com/Chillsmeit/FakespotUserscript
+// @homepageURL  https://github.com/Chillsmeit/FakespotUserscript
+// @source       github:Chillsmeit/FakespotUserscript
+// @supportURL   https://github.com/Chillsmeit/FakespotUserscript/issues
+// @downloadURL  https://raw.githack.com/Chillsmeit/FakespotUserscript/main/blob/FakespotUS&EU.js.user.js
 // ==/UserScript==
 
 const url = "https://www.fakespot.com/analyze?url="+ encodeURIComponent(window.location)
