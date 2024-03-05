@@ -14,7 +14,7 @@
 // @homepageURL  https://github.com/Chillsmeit/FakespotUserscript
 // @source       github:Chillsmeit/FakespotUserscript
 // @supportURL   https://github.com/Chillsmeit/FakespotUserscript/issues
-// @downloadURL  https://raw.githack.com/Chillsmeit/FakespotUserscript/main/blob/FakespotUS&EU.js.user.js
+// @downloadURL  https://raw.githack.com/Chillsmeit/FakespotUserscript/main/blob/FakespotUS&EU.js
 // ==/UserScript==
 
 const url = "https://www.fakespot.com/analyze?url="+ encodeURIComponent(window.location)
